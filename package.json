@@ -35,7 +35,7 @@
     "eslint-config-airbnb": "^18.1.0",
     "eslint-loader": "^3.0.3",
     "fast-xml-parser": "^3.16.0",
-    "gatsby": "^2.19.45",
+    "gatsby": "^5.14.6",
     "gatsby-image": "^2.2.44",
     "gatsby-plugin-eslint": "^2.0.8",
     "gatsby-plugin-manifest": "^2.2.48",
